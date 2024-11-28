@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitcoin Holdings and Purchases</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #333;
+            color: #fff;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bitcoin Holdings and Purchases</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Entity</th>
+                <th>Amount of Bitcoin</th>
+                <th>Status</th>
+                <th>Approximate Value (USD)</th>
+                <th>Source</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+    <td>November 2024</td>
+    <td>MicroStrategy</td>
+    <td>55,500 BTC</td>
+    <td>Purchased</td>
+    <td>$5,348,025,000</td>
+    <td><a href="https://www.marketwatch.com/story/microstrategy-buys-2-billion-in-bitcoin-in-10-days-is-there-42-billion-to-go-6a2cdabf" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>November 2024</td>
+    <td>MicroStrategy</td>
+    <td>51,780 BTC</td>
+    <td>Purchased</td>
+    <td>$4,986,183,000</td>
+    <td><a href="https://www.barrons.com/articles/microstrategy-bitcoin-buy-stock-63fdd9b3" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>November 2024</td>
+    <td>Rumble</td>
+    <td>Not specified</td>
+    <td>Announced Plan</td>
+    <td>Not applicable</td>
+    <td><a href="https://www.investopedia.com/rumble-plans-to-buy-bitcoin-from-cash-reserves-8751880" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>November 2024</td>
+    <td>SOS Ltd</td>
+    <td>Not specified</td>
+    <td>Announced Plan</td>
+    <td>Not applicable</td>
+    <td><a href="https://www.prnewswire.com/news-releases/sos-limited-announces-plan-to-purchase-bitcoin-301234567.html" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>November 27, 2024</td>
+    <td>City of Vancouver</td>
+    <td>Not specified</td>
+    <td>Proposed Plan</td>
+    <td>Not applicable</td>
+    <td><a href="https://coinjournal.net/news/vancouver-mayor-proposes-bitcoin-as-city-reserve-asset-for-stability/" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>July 2024</td>
+    <td>German Government</td>
+    <td>Nearly 50,000 BTC (sold)</td>
+    <td>Sold Seized Assets</td>
+    <td>$4,817,500,000</td>
+    <td><a href="https://www.reuters.com/technology/germany-sells-nearly-50000-bitcoins-seized-criminal-activities-2024-07-15/" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>March 2024</td>
+    <td>MicroStrategy</td>
+    <td>9,000 BTC</td>
+    <td>Purchased</td>
+    <td>$867,150,000</td>
+    <td><a href="https://www.coindesk.com/business/2024/03/15/microstrategy-buys-9000-bitcoins-in-latest-purchase/" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>2024 (exact date not specified)</td>
+    <td>State of Michigan Retirement Fund</td>
+    <td>Not specified</td>
+    <td>Announced Plan</td>
+    <td>Not applicable</td>
+    <td><a href="https://www.marketwatch.com/story/michigan-joins-wisconsin-pension-fund-with-bitcoin-investment-b72e8c75" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>September 6, 2021</td>
+    <td>El Salvador Government</td>
+    <td>400 BTC</td>
+    <td>Purchased</td>
+    <td>$38,540,000</td>
+    <td><a href="https://www.reuters.com/technology/el-salvador-buys-first-200-bitcoins-president-says-2021-09-06/" target="_blank">Source</a></td>
+</tr>
+<tr>
+    <td>Ongoing</td>
+    <td>Satoshi Nakamoto</td>
+    <td>1,100,000 BTC</td>
+    <td>Holding</td>
+    <td>$105,985,000,000</td>
+    <td><a href="https://river.com/learn/who-owns-the-most-bitcoin/" target="_blank">Source</a></td>
+</tr>
+
+        </tbody>
+    </table>
+</body>
+</html>
